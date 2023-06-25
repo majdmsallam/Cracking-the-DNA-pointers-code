@@ -1,0 +1,112 @@
+Max Score (word size = 5): 4.510139195655016
+
+chr1 GCTGCCTGAGGCAG 3471641 3471654 -
+GCTGC=> Score: 4.246177360493385, downstream: 3758, upstream: 2866
+CCTGC=> Score: 4.253245944163019, downstream: 4746, upstream: 3685
+
+chr1 CGCGCGTCACGCCG 15526971 15526984 -
+ATTGC=> Score: 4.510139195655016, downstream: 1321, upstream: 1132
+TTTGC=> Score: 4.188627042832201, downstream: 2016, upstream: 1339
+
+chr1 TCTGCCTTAGGCAA 24600696 24600709 -
+ATTGC=> Score: 4.510139195655016, downstream: 1267, upstream: 1201
+GTTGC=> Score: 4.419844763621514, downstream: 1315, upstream: 1235
+ACTGC=> Score: 4.336471792526887, downstream: 2155, upstream: 2015
+
+chr1 TTGCCCTCAGGCAT 34656961 34656974 -
+TTTGC=> Score: 4.188627042832201, downstream: 1945, upstream: 1683
+CTTGC=> Score: 4.426913347291148, downstream: 1571, upstream: 1316
+GCTGC=> Score: 4.246177360493385, downstream: 1765, upstream: 1486
+CCTGC=> Score: 4.253245944163019, downstream: 2308, upstream: 2189
+
+chr1 ACTGCCTCTGGTCC 44329214 44329227 +
+TTTGC=> Score: 4.188627042832201, downstream: 1560, upstream: 1534
+CTTGC=> Score: 4.426913347291148, downstream: 1516, upstream: 1333
+GCTGC=> Score: 4.246177360493385, downstream: 1904, upstream: 1409
+CCTGC=> Score: 4.253245944163019, downstream: 2857, upstream: 2214
+
+chr1 ATGCCCTCAGGCCT 53533071 53533084 +
+ATTGC=> Score: 4.510139195655016, downstream: 1282, upstream: 1053
+TTTGC=> Score: 4.188627042832201, downstream: 1680, upstream: 1519
+GTTGC=> Score: 4.419844763621514, downstream: 1271, upstream: 1072
+
+chr1 GGTGCCTGAGGCAA 64948425 64948438 +
+CTTGC=> Score: 4.426913347291148, downstream: 1366, upstream: 1307
+GCTGC=> Score: 4.246177360493385, downstream: 1251, upstream: 1129
+ACTGC=> Score: 4.336471792526887, downstream: 1548, upstream: 1451
+CCTGC=> Score: 4.253245944163019, downstream: 1720, upstream: 1403
+
+chr1 TATACCTCAGTGAT 75721124 75721137 -
+
+chr1 GAGGCCTCAGGCAT 84634958 84634971 +
+ATTGC=> Score: 4.510139195655016, downstream: 1424, upstream: 1344
+TTTGC=> Score: 4.188627042832201, downstream: 2204, upstream: 1883
+CTTGC=> Score: 4.426913347291148, downstream: 1223, upstream: 1177
+
+chr1 CAGGCCTCGGGCGG 93908988 93909001 -
+GTTGC=> Score: 4.419844763621514, downstream: 1085, upstream: 1064
+ACTGC=> Score: 4.336471792526887, downstream: 1801, upstream: 1563
+
+chr1 TAGGCCTCAGGGCA 108561848 108561861 -
+ATTGC=> Score: 4.510139195655016, downstream: 1427, upstream: 1296
+TTTGC=> Score: 4.188627042832201, downstream: 2153, upstream: 1663
+
+chr1 AGGGCCTCCGGCTC 114510535 114510548 +
+ATTGC=> Score: 4.510139195655016, downstream: 1435, upstream: 1374
+ACTGC=> Score: 4.336471792526887, downstream: 1694, upstream: 1572
+CCTGC=> Score: 4.253245944163019, downstream: 1677, upstream: 1638
+
+chr1 TCTGCCTCAGCCTA 147717175 147717188 -
+ATTGC=> Score: 4.510139195655016, downstream: 1401, upstream: 1370
+TTTGC=> Score: 4.188627042832201, downstream: 2005, upstream: 1854
+
+chr1 GATGCCTCAGGCAC 155026845 155026858 +
+ATTGC=> Score: 4.510139195655016, downstream: 1175, upstream: 1151
+TTTGC=> Score: 4.188627042832201, downstream: 1441, upstream: 1292
+CTTGC=> Score: 4.426913347291148, downstream: 1464, upstream: 1346
+GTTGC=> Score: 4.419844763621514, downstream: 1370, upstream: 1369
+ACTGC=> Score: 4.336471792526887, downstream: 2248, upstream: 2230
+CCTGC=> Score: 4.253245944163019, downstream: 2663, upstream: 2652
+
+chr1 TTTGCCTGAGGCTG 167474233 167474246 -
+TTTGC=> Score: 4.188627042832201, downstream: 2201, upstream: 2129
+
+chr1 ATGTCCTCAGGCAC 174153713 174153726 -
+ACTGC=> Score: 4.336471792526887, downstream: 1563, upstream: 1528
+
+chr1 GTGGCCTCAGGGTA 183454585 183454598 -
+CTTGC=> Score: 4.426913347291148, downstream: 1359, upstream: 1326
+GCTGC=> Score: 4.246177360493385, downstream: 1376, upstream: 1267
+ACTGC=> Score: 4.336471792526887, downstream: 1762, upstream: 1559
+CCTGC=> Score: 4.253245944163019, downstream: 1872, upstream: 1591
+
+chr1 TCTTCCTCGGGTTA 196312178 196312191 -
+ATTGC=> Score: 4.510139195655016, downstream: 1524, upstream: 1444
+TTTGC=> Score: 4.188627042832201, downstream: 2259, upstream: 2064
+CCTGC=> Score: 4.253245944163019, downstream: 974, upstream: 935
+
+chr1 CTGGCCTCAGGGGC 204077182 204077195 -
+ATTGC=> Score: 4.510139195655016, downstream: 1283, upstream: 1139
+GTTGC=> Score: 4.419844763621514, downstream: 1214, upstream: 1131
+ACTGC=> Score: 4.336471792526887, downstream: 1906, upstream: 1898
+
+chr1 TTTGCCTCAAGCAA 216814665 216814678 -
+TTTGC=> Score: 4.188627042832201, downstream: 2139, upstream: 2065
+CTTGC=> Score: 4.426913347291148, downstream: 1187, upstream: 1186
+
+chr1 CATGCCTGAGGCAA 226333057 226333070 +
+ATTGC=> Score: 4.510139195655016, downstream: 1301, upstream: 1242
+TTTGC=> Score: 4.188627042832201, downstream: 1873, upstream: 1756
+GTTGC=> Score: 4.419844763621514, downstream: 1176, upstream: 1110
+
+chr1 ATTACATCAGGCAG 234154840 234154853 -
+ATTGC=> Score: 4.510139195655016, downstream: 1430, upstream: 1268
+TTTGC=> Score: 4.188627042832201, downstream: 2051, upstream: 1621
+CTTGC=> Score: 4.426913347291148, downstream: 1379, upstream: 1341
+
+chr1 TATGCCTTAGGCTA 245488862 245488875 +
+ATTGC=> Score: 4.510139195655016, downstream: 1351, upstream: 1209
+TTTGC=> Score: 4.188627042832201, downstream: 1915, upstream: 1655
+CTTGC=> Score: 4.426913347291148, downstream: 1382, upstream: 1199
+GTTGC=> Score: 4.419844763621514, downstream: 1264, upstream: 1035
+CCTGC=> Score: 4.253245944163019, downstream: 1997, upstream: 1786

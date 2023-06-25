@@ -1,0 +1,47 @@
+.combo-box .list-cell {
+  -fx-background-color: #353f4c;
+  -fx-text-fill: white;
+}
+
+.combo-box .list-cell:hover {
+  -fx-background-color: #79a42b;
+}
+
+.combo-box .list-view {
+  -fx-background-color: #353f4c;
+}
+
+.combo-box .arrow-button {
+  -fx-background-color: #353f4c;
+  -fx-text-fill: white;
+}
+
+.combo-box .arrow-button:hover {
+  -fx-background-color: #79a42b;
+}
+
+.combo-box .arrow {
+  -fx-background-color: white;
+}
+
+.combo-box .list-view .empty-text {
+  -fx-fill: white;
+}
+
+.combo-box .list-view .list-cell:filled:selected {
+  -fx-background-color: #79a42b;
+  -fx-text-fill: white;
+}
+
+.combo-box .list-view .list-cell:filled:selected:hover {
+  -fx-background-color: white;
+  -fx-text-fill: #353f4c;
+}
+
+.combo-box .list-view .list-cell:filled:odd {
+  -fx-background-color: #353f4c;
+}
+
+.combo-box .list-view .list-cell:filled:even {
+  -fx-background-color: #79a42b;
+}
